@@ -2,6 +2,9 @@ python programming
 krushi-tharuni
 btech
 intership
+version control
+Github
+
 
 
 
